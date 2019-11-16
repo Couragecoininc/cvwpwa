@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyDy0ZjP7YM9pPnzo6GVJMSofOaNJjp6BNQ',
+    apiKey: '',
     authDomain: 'cvinfo-bbc50.firebaseapp.com',
     databaseURL: 'https://cvinfo-bbc50.firebaseio.com',
     projectId: 'cvinfo',
